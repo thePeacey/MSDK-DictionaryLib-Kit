@@ -1,7 +1,7 @@
 Installation:
 1. Open the zip file
 2. Go to your MSDK's Mods folder
-3. Drag the DictionaryLib folder into the Mods folder
+3. Drag the kit's folder from zip into the Mods folder
 4. Done!
 
 
