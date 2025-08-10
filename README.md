@@ -7,7 +7,7 @@ Installation:
 
 Usage:
 1. Right-click in Graph
-2. Search for DictionaryLib
+2. Search for Dictionary Lib
 3. Now you are using it
 
 
