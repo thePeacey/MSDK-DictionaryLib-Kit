@@ -14,5 +14,5 @@ Usage:
 Notes:
 + You shouldn't cook the kit
 + You shouldn't copy anything from the kit to your mod folder
-+ Make sure to add the Dictionary Lib mod as a dependency of in Modio
++ Make sure to add the Dictionary Lib mod as a dependency of your mod in Modio
 + Make sure both Dictionary Lib's Mod-ID and your mod's Mod-ID are added to game.ini
